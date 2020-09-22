@@ -4477,6 +4477,10 @@ hr {
   align-items: end;
 }
 
+.about-area .about-img2 {
+  background-image: url(../img/gallery/about2.jpg) !important;
+}
+
 @media (max-width: 575px) {
 
   /* line 14, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
