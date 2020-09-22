@@ -343,3 +343,15 @@ $('.top-job-slider').slick({
   $('#bar6').barfiller();
 
 })(jQuery);
+
+// MODAL POPUP 
+
+var elements = $('.modal-overlay, .modal');
+
+$('button#modal_button').click(function(){
+    elements.addClass('active');
+});
+
+$('.close-modal').click(function(){
+    elements.removeClass('active');
+});
