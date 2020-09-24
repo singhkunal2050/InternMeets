@@ -355,3 +355,21 @@ $('button#modal_button').click(function(){
 $('.close-modal').click(function(){
     elements.removeClass('active');
 });
+
+
+// show more show less 
+
+
+function showMore1(){
+  var container = document.getElementsByClassName('training-list')[0];
+  container.style.height = "auto";
+  container.style.transition= "300s max-height ease-in-out";
+  document.getElementById('showmore1').style.display ="none"
+}
+
+function showMore2(){
+  var container = document.getElementsByClassName('internship-list')[0];
+  container.style.height = "auto";
+  container.style.transition= "300s max-height ease-in-out";
+  document.getElementById('showmore2').style.display ="none"
+}

@@ -10140,3 +10140,17 @@ del {
   65%  { transform: translate(0, 25px); }
   to   { transform: translate(0, -0px); }    
 }
+
+
+/*show more show less for tiles */
+
+.training-list{
+  height: 1200px;
+  overflow:hidden;
+}
+
+
+.internship-list{
+  height: 1200px;
+  overflow:hidden;
+}
