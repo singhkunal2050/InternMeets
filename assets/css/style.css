@@ -10162,3 +10162,41 @@ del {
 .slick-dots li button {
   display: none;
 }
+
+
+/* styling job cards in index  */
+
+
+.top-job-slider .services-cap p{
+  min-height: 200px;
+}
+
+
+/* care tag or highlight  */
+
+.care-tag{
+  font-size: 1em;
+  background: #09cc7f;
+  padding: 10px 20px;
+  border-radius: 20px 0 20px 0  ;
+}
+
+
+.description-text{
+    background: #eeeeee;
+    border-radius: 0 20px 0 20px  ;
+    opacity: 0;
+    height: 0px;
+    transition: ease-in-out 300ms;
+}
+
+
+/* highlighting sibling  */
+
+.care-tag:focus , .care-tag:hover ~ .description-text{
+  margin: 20px;
+  padding: 20px;
+  opacity: 1;
+  height:auto;
+  transition: ease-in-out 300ms;
+}
