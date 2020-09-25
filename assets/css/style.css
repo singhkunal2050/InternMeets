@@ -3630,7 +3630,7 @@ hr {
 
 /* line 2, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
 .slider-height {
-  min-height: 844px;
+  min-height: 714px;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -10153,4 +10153,12 @@ del {
 .internship-list{
   height: 1200px;
   overflow:hidden;
+}
+
+
+
+/* removing numbers from slick slider of students  */
+
+.slick-dots li button {
+  display: none;
 }
