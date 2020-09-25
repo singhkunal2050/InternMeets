@@ -10200,3 +10200,10 @@ del {
   height:auto;
   transition: ease-in-out 300ms;
 }
+
+
+@media(max-width:450px){
+  .connect_btns{
+    flex-direction: column;
+  }
+}
