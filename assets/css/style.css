@@ -10210,6 +10210,11 @@ del {
   .form-check{
     flex-direction: column;
   }
+
+  .modal-content{
+    height: 500px !important;
+    background: #eeeeee;
+  }
 }
 
 
