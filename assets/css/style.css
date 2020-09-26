@@ -10206,4 +10206,48 @@ del {
   .connect_btns{
     flex-direction: column;
   }
+
+  .form-check{
+    flex-direction: column;
+  }
+}
+
+
+/* form styling for popup  */
+
+.form-input{
+  padding: 10px;
+  outline: none;
+  border: 1px solid #cecdcd;
+  margin: 10px;
+}
+
+
+/* revolving logo in about  */
+
+.revolve{
+  -webkit-animation: rotation 6s infinite linear;
+}
+
+
+@-webkit-keyframes rotation {
+  from {
+      -webkit-transform: rotate(0deg);
+  }
+  to {
+      -webkit-transform: rotate(359deg);
+  }
+}
+
+@media(max-width:600px){
+  #revolve-container{
+    height: 100px !important;
+  }
+}
+
+
+@media(max-width:400px){
+  #revolve-container{
+    height: 60px !important;
+  }
 }

@@ -373,3 +373,8 @@ function showMore2(){
   container.style.transition= "300s max-height ease-in-out";
   document.getElementById('showmore2').style.display ="none"
 }
+
+
+// shuffling classes for hero green icon 
+
+  

@@ -61,15 +61,12 @@
                                         <nav>
                                             <ul id="navigation">
                                                 <li><a href="#" id="active">Home</a></li>
-                                                <li><a href="#">Career</a>
-                                                    <ul class="submenu">
-                                                        <li><a href="#">Training</a></li>
-                                                        <li><a href="#">Internships</a></li>
-                                                        <li><a href="#">Job Openings</a></li>
-                                                    </ul>
+                                                <li><a href="#">Training</a></li>
+                                                <li><a href="#">Internships</a></li>
                                                 </li>
                                                 <li><a href="#">More</a>
                                                     <ul class="submenu">
+                                                        <li><a href="#">Job Openings</a></li>
                                                         <li><a href="about.html">About</a></li>
                                                         <li><a href="contact.html">Contact</a></li>
                                                         <li><a href="#">Blog</a></li>
@@ -118,8 +115,8 @@
                                 </div>
                                 <div style="margin-top: 10px;">
                                     <p style="margin: 10px;">GET FUTURE READY with Latest Technologies .</p>
-                                    <span class="mdi mdi-iframe"></span>
-                                    <div class="connect_btns d-flex justify-content-center" >
+                                    <span id="toggle-logo" class="mdi mdi-iframe"></span>
+                                    <div class="connect_btns d-flex justify-content-center">
                                         <a href="https://wa.link/6d9qtu"
                                             style="display: flex; justify-content: center; margin: 10px;"><button
                                                 style="display: flex; justify-content: center;">Whatsapp US! <span
@@ -1072,9 +1069,9 @@
                     </svg>
                 </a><!-- close modal -->
 
-                <div class="modal-content" style="margin-top:50px">
+                <div class="modal-content" style="margin-top:50px; height: 400px; overflow-y: scroll;">
 
-                    <h3 style="margin: 10px;"><strong>Course Details and Perks</strong></h3>
+                    <h3 style="margin: 10px;"><strong>Training Details and Perks</strong></h3>
                     <div style="display: flex; flex-direction: column; align-items: flex-start; margin: 10px;">
                         <p><span class="mdi mdi-step-forward" style="font-size: 1em;"></span>1 to 1 support with live
                             lectures.</p>
@@ -1089,6 +1086,49 @@
                     <a href="https://wa.link/6d9qtu"><button class="wapp-btn"
                             style="background: #25D366 !important;">Apply & Connect via Whatsapp <span
                                 class="mdi mdi-whatsapp" style="font-size: 1em;"></span></button></a>
+
+
+                    <h3 style="margin: 10px;"><strong>OR</strong></h3>
+                    <h3 style="margin: 10px;"><strong>Enroll with Form to get Coupon Code</strong></h3>
+
+                    <div style="display: flex; flex-direction: column; margin: 10px;">
+                        <script type="text/javascript">var submitted = false;</script>
+                        <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+                            onload="if(submitted) {window.location='thankyou.html';}"></iframe>
+
+                        <form
+                            action="https://docs.google.com/forms/u/7/d/e/1FAIpQLScufLs8OlUS-m0Yb5Iw8mTCDegw_78LONewYpivmnromx5abg/formResponse"
+                            style="display: flex; flex-direction: column; justify-content: stretch;"
+                            target="hidden_iframe" onsubmit="submitted=true;">
+                            <input type="text" class="form-input" name="entry.831785372" placeholder="Name" required>
+                            <input type="tel" minlength="10" maxlength="10" class="form-input" name="entry.744172265" placeholder="PhoneNo" required>
+                            <input type="email" class="form-input" name="entry.544595364" placeholder="Email" required>
+                            <!-- <div class="form-group row">
+                                <div class="col-sm-10">
+                                    <div class="form-check" style="display: flex; justify-content: space-evenly; ">
+                                        <div>
+                                            <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                            <label class="form-check-label" style="padding: 0 10px;" for="gridCheck1">
+                                                Training
+                                            </label>
+                                        </div>
+                                        <div>
+                                            <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                            <label class="form-check-label" style="padding: 0 10px;" for="gridCheck1">
+                                                Internship
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> -->
+                            <input type="text" class="form-input" name="entry.1425119734" placeholder="Domain eg: Java"
+                                required>
+
+                            <button type="submit" name="Submit">SUBMIT</button>
+                        </form>
+
+                    </div>
+
                 </div><!-- content -->
 
             </div><!-- modal -->
@@ -1568,6 +1608,7 @@
             </div>
         </section>
         <!--? Testimonial Area End -->
+        
         <!--? Want To work 01-->
         <section class="wantToWork-area">
             <div class="container">
