@@ -28,6 +28,9 @@
     <link rel="stylesheet" href="assets/css/mega.css">
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.6.55/css/materialdesignicons.min.css">
+    <!-- AOS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -1203,7 +1206,7 @@
 
 
         <!--? About Area Start-->
-        <section class="about-area fix">
+        <section class="about-area fix" data-aos="fade-left" data-aos-delay="100">
             <!--Right Contents  -->
             <div class="about-img">
                 <div class="info-man text-center">
@@ -1232,7 +1235,7 @@
         </section>
 
 
-        <section class="about-area fix">
+        <section class="about-area fix" data-aos="fade-right"  data-aos-delay="100">
             <!--Right Contents  -->
             <div class="about-details">
                 <div class="right-caption">
@@ -1401,7 +1404,7 @@
         <section class="job-post  pt-top section-bg2">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 ">
+                    <div class="col-lg-6 " data-aos="fade-up">
                         <div class="single-features mb-40 pt-60">
                             <div class="job-post-banner">
                                 <img src="assets/img/gallery/job-pos-banner1.png" alt="">
@@ -1413,7 +1416,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 ">
+                    <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="400">
                         <div class="single-features  single-features2 mb-40 pt-60">
                             <div class="job-post-banner">
                                 <img src="assets/img/gallery/job-pos-banner2.png" alt="">
@@ -1632,7 +1635,7 @@
                                         <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
                                     </div>
                                     <div class="footer-tittle">
-                                        <div class="footer-pera">
+                                        <div class="footer-pera text-center">
                                             <p>We Believe in Practical Training and Work Experience.
                                             </p>
                                         </div>
@@ -1787,7 +1790,11 @@
 
     <!-- MODAL  -->
     <script src="assets/js/mega.js"></script>
-
+    <!-- AOS  -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+      </script>
 
 </body>
 
