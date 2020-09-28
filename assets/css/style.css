@@ -34,6 +34,11 @@
   background: #ffffff;
 }
 
+
+html,body{
+  overflow-x: hidden;
+}
+
 /* line 36, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_color.scss */
 .gray-bg {
   background: #f5f5f5;
