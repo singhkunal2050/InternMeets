@@ -10268,3 +10268,33 @@ del {
 .footer-pera p{
   padding-right: 0 !important;
 }
+
+
+/* trianers  */
+
+.trainers-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+
+.trainer-card{
+  background: #e2dfdf;
+  padding: 30px 20px;  
+  margin: 30px;
+  border-radius: 8px;
+}
+
+.trainer-img{
+  height: 300px;
+}
+
+.trainer-img img{
+  height: 100%;
+}
+
+.trainer-desc{
+  padding: 20px 10px 0;
+}
