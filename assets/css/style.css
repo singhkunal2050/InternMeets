@@ -1,27 +1,27 @@
 /* Theme Description
 -------------------------------------------------
 
-	  Theme Name:
-	  Author:
-	  Support:
-	  Description:
-	  Version:
-	  
+Theme Name:
+Author:
+Support:
+Description:
+Version:
+
 ------------------------------------------------- 
 */
 /* CSS Index
 -------------------------------------------------
 
-	1. Theme default css
-	2. header
-	3. slider
-	4. about-area
-	5. features-box
-	6. department
-	7. team
-	8. video-area
-	9. counter
-	10. footer
+1. Theme default css
+2. header
+3. slider
+4. about-area
+5. features-box
+6. department
+7. team
+8. video-area
+9. counter
+10. footer
 
 -------------------------------------------------
 */
@@ -128,7 +128,7 @@ html,body{
 }
 
 /*--
-    - Overlay
+- Overlay
 ------------------------------------------*/
 /* line 4, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_overlay.scss */
 [data-overlay] {
@@ -409,7 +409,7 @@ hr {
 }
 
 @media (max-width: 767px) {
-
+  
   /* line 157, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .mb-90 {
     margin-bottom: 30px;
@@ -417,7 +417,7 @@ hr {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 157, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .mb-90 {
     margin-bottom: 45px;
@@ -653,7 +653,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 351, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .border-btn {
     display: none;
@@ -742,7 +742,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 430, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   #scrollUp,
   #back-top {
@@ -2421,12 +2421,12 @@ hr {
     -webkit-transform: translateY(-20px);
     transform: translateY(-20px);
   }
-
+  
   50% {
     -webkit-transform: translateY(-10px);
     transform: translateY(-10px);
   }
-
+  
   100% {
     -webkit-transform: translateY(-20px);
     transform: translateY(-20px);
@@ -2464,7 +2464,7 @@ hr {
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
-
+  
   to {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -2475,7 +2475,7 @@ hr {
   from {
     -webkit-transform: rotate(0deg);
   }
-
+  
   to {
     -webkit-transform: rotate(360deg);
   }
@@ -2566,7 +2566,7 @@ hr {
     -o-transition: .6s;
     transition: .6s;
   }
-
+  
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -2584,7 +2584,7 @@ hr {
     -o-transition: .6s;
     transition: .6s;
   }
-
+  
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -2607,7 +2607,7 @@ hr {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-
+  
   /* line 708, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding2 {
     padding-top: 200px;
@@ -2616,7 +2616,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 708, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding2 {
     padding-top: 200px;
@@ -2625,7 +2625,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 708, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding2 {
     padding-top: 100px;
@@ -2634,7 +2634,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 708, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding2 {
     padding-top: 70px;
@@ -2643,7 +2643,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 708, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding2 {
     padding-top: 70px;
@@ -2657,7 +2657,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 733, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pb-bottom {
     padding-bottom: 200px;
@@ -2665,7 +2665,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 733, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pb-bottom {
     padding-bottom: 50px;
@@ -2673,7 +2673,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 733, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pb-bottom {
     padding-bottom: 10px;
@@ -2681,7 +2681,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 733, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pb-bottom {
     padding-bottom: 10px;
@@ -2694,7 +2694,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 748, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pb-top {
     padding-top: 70px;
@@ -2702,7 +2702,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 748, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pb-top {
     padding-top: 70px;
@@ -2710,7 +2710,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 748, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pb-top {
     padding-top: 70px;
@@ -2724,7 +2724,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 760, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .w-padding2 {
     padding: 31px 13px;
@@ -2738,7 +2738,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 768, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .testimonial-padding {
     padding-top: 190px;
@@ -2747,7 +2747,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 768, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .testimonial-padding {
     padding-top: 70px;
@@ -2756,7 +2756,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 768, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .testimonial-padding {
     padding-top: 60px;
@@ -2765,7 +2765,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 768, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .testimonial-padding {
     padding-top: 60px;
@@ -2780,7 +2780,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 788, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .w-padding {
     padding-top: 70px;
@@ -2789,7 +2789,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 788, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .w-padding {
     padding-top: 70px;
@@ -2804,7 +2804,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 800, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding30 {
     padding-top: 150px;
@@ -2813,7 +2813,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 800, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding30 {
     padding-top: 100px;
@@ -2822,7 +2822,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 800, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding30 {
     padding-top: 65px;
@@ -2831,7 +2831,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 800, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding30 {
     padding-top: 65px;
@@ -2846,7 +2846,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 820, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding40 {
     padding-top: 70px;
@@ -2855,7 +2855,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 820, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding40 {
     padding-top: 60px;
@@ -2864,7 +2864,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 820, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding40 {
     padding-top: 60px;
@@ -2878,7 +2878,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 836, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pb-padding {
     padding-bottom: 140px;
@@ -2886,7 +2886,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 836, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pb-padding {
     padding-bottom: 60px;
@@ -2894,7 +2894,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 836, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pb-padding {
     padding-bottom: 60px;
@@ -2907,7 +2907,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 848, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pt-padding {
     padding-top: 140px;
@@ -2915,7 +2915,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 848, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pt-padding {
     padding-top: 70px;
@@ -2923,7 +2923,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 848, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .pt-padding {
     padding-top: 70px;
@@ -2937,7 +2937,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 860, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .services-padding {
     padding-top: 145px;
@@ -2946,7 +2946,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 860, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .services-padding {
     padding-top: 100px;
@@ -2955,7 +2955,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 860, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .services-padding {
     padding-top: 65px;
@@ -2964,7 +2964,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 860, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .services-padding {
     padding-top: 65px;
@@ -2979,7 +2979,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 880, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-paddingt30 {
     padding-top: 150px;
@@ -2988,7 +2988,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 880, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-paddingt30 {
     padding-top: 100px;
@@ -2997,7 +2997,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 880, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-paddingt30 {
     padding-top: 65px;
@@ -3006,7 +3006,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 880, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-paddingt30 {
     padding-top: 65px;
@@ -3021,7 +3021,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 902, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding3 {
     padding-top: 150px;
@@ -3030,7 +3030,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 902, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding3 {
     padding-top: 60px;
@@ -3039,7 +3039,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 902, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding3 {
     padding-top: 60px;
@@ -3048,7 +3048,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 902, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-padding3 {
     padding-top: 60px;
@@ -3063,7 +3063,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 939, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-tittle {
     margin-bottom: 50px;
@@ -3071,7 +3071,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 939, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-tittle {
     margin-bottom: 50px;
@@ -3088,7 +3088,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 960, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-tittle h2 {
     font-size: 41px;
@@ -3096,7 +3096,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 960, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-tittle h2 {
     font-size: 31px;
@@ -3104,7 +3104,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 960, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .section-tittle h2 {
     font-size: 27px;
@@ -3112,7 +3112,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 979, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .small-section-tittle {
     margin-bottom: 50px;
@@ -3121,7 +3121,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 979, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .small-section-tittle {
     margin-bottom: 50px;
@@ -3140,7 +3140,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 987, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
   .small-section-tittle span {
     font-size: 14px;
@@ -3238,7 +3238,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 3, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area {
     box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
@@ -3246,7 +3246,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 3, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area {
     box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
@@ -3254,7 +3254,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 3, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area {
     box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
@@ -3268,7 +3268,7 @@ hr {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-
+  
   /* line 14, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area .header-top {
     padding: 9px 30px;
@@ -3276,7 +3276,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 14, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area .header-top {
     padding: 9px 15px;
@@ -3284,7 +3284,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 14, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area .header-top {
     padding: 9px 50px;
@@ -3292,7 +3292,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 14, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area .header-top {
     padding: 9px 20px;
@@ -3300,7 +3300,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 14, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area .header-top {
     padding: 9px 0px;
@@ -3410,7 +3410,7 @@ hr {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-
+  
   /* line 125, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area .header-bottom {
     padding: 0px 30px;
@@ -3418,7 +3418,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 125, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area .header-bottom {
     padding: 0px 15px;
@@ -3426,7 +3426,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 125, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area .header-bottom {
     padding: 15px 50px;
@@ -3434,7 +3434,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 125, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area .header-bottom {
     padding: 15px 20px;
@@ -3442,7 +3442,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 125, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-area .header-bottom {
     padding: 15px 0px;
@@ -3456,7 +3456,7 @@ hr {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-
+  
   /* line 151, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .main-header .main-menu {
     margin-right: 30px;
@@ -3486,7 +3486,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 160, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .main-header .main-menu ul li a {
     padding: 39px 14px;
@@ -3564,7 +3564,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 232, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-sticky.sticky-bar.sticky {
     padding: 15px 0px;
@@ -3572,7 +3572,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 232, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-sticky.sticky-bar.sticky {
     padding: 15px 0px;
@@ -3580,7 +3580,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 232, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
   .header-sticky.sticky-bar.sticky {
     padding: 15px 0px;
@@ -3642,7 +3642,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 2, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height {
     min-height: 750px;
@@ -3650,7 +3650,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 2, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height {
     min-height: 760px;
@@ -3658,7 +3658,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 2, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height {
     min-height: 800px;
@@ -3666,7 +3666,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 2, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height {
     min-height: 700px;
@@ -3682,7 +3682,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 21, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height2 {
     min-height: 588px;
@@ -3690,7 +3690,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 21, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height2 {
     min-height: 588px;
@@ -3698,7 +3698,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 21, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height2 {
     min-height: 588px;
@@ -3714,7 +3714,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 37, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height3 {
     min-height: 400px;
@@ -3722,7 +3722,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 37, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height3 {
     min-height: 500px;
@@ -3730,7 +3730,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 37, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height3 {
     min-height: 308px;
@@ -3738,7 +3738,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 37, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-height3 {
     min-height: 308px;
@@ -3768,7 +3768,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 63, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption,
   .slider-area2 .hero__caption {
@@ -3777,7 +3777,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 63, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption,
   .slider-area2 .hero__caption {
@@ -3786,7 +3786,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 63, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption,
   .slider-area2 .hero__caption {
@@ -3806,7 +3806,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 76, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption span,
   .slider-area2 .hero__caption span {
@@ -3826,7 +3826,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 88, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption h1,
   .slider-area2 .hero__caption h1 {
@@ -3836,7 +3836,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 88, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption h1,
   .slider-area2 .hero__caption h1 {
@@ -3846,7 +3846,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 88, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption h1,
   .slider-area2 .hero__caption h1 {
@@ -3857,7 +3857,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 88, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption h1,
   .slider-area2 .hero__caption h1 {
@@ -3876,7 +3876,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 114, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption p,
   .slider-area2 .hero__caption p {
@@ -3901,7 +3901,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 126, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption.hero__caption2 h1,
   .slider-area2 .hero__caption.hero__caption2 h1 {
@@ -3910,7 +3910,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 126, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption.hero__caption2 h1,
   .slider-area2 .hero__caption.hero__caption2 h1 {
@@ -3929,7 +3929,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 140, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box,
   .slider-area2 form.search-box {
@@ -3938,7 +3938,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 140, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box,
   .slider-area2 form.search-box {
@@ -3947,7 +3947,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 140, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box,
   .slider-area2 form.search-box {
@@ -3966,7 +3966,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 155, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .input-form,
   .slider-area2 form.search-box .input-form {
@@ -3978,7 +3978,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 155, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .input-form,
   .slider-area2 form.search-box .input-form {
@@ -3990,7 +3990,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 155, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .input-form,
   .slider-area2 form.search-box .input-form {
@@ -4024,7 +4024,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 195, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .input-form input::placeholder,
   .slider-area2 form.search-box .input-form input::placeholder {
@@ -4033,7 +4033,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 195, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .input-form input::placeholder,
   .slider-area2 form.search-box .input-form input::placeholder {
@@ -4066,7 +4066,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 219, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .input-form2,
   .slider-area2 form.search-box .input-form2 {
@@ -4076,7 +4076,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 219, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .input-form2,
   .slider-area2 form.search-box .input-form2 {
@@ -4086,7 +4086,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 219, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .input-form2,
   .slider-area2 form.search-box .input-form2 {
@@ -4118,7 +4118,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 248, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .input-form2 input::placeholder,
   .slider-area2 form.search-box .input-form2 input::placeholder {
@@ -4127,7 +4127,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 248, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .input-form2 input::placeholder,
   .slider-area2 form.search-box .input-form2 input::placeholder {
@@ -4159,7 +4159,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 272, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .select-form,
   .slider-area2 form.search-box .select-form {
@@ -4168,7 +4168,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 272, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .select-form,
   .slider-area2 form.search-box .select-form {
@@ -4177,7 +4177,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 272, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .select-form,
   .slider-area2 form.search-box .select-form {
@@ -4201,7 +4201,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 284, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .select-form .nice-select,
   .slider-area2 form.search-box .select-form .nice-select {
@@ -4210,7 +4210,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 284, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .select-form .nice-select,
   .slider-area2 form.search-box .select-form .nice-select {
@@ -4221,7 +4221,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 284, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .select-form .nice-select,
   .slider-area2 form.search-box .select-form .nice-select {
@@ -4281,7 +4281,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 336, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .search-form,
   .slider-area2 form.search-box .search-form {
@@ -4292,7 +4292,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 336, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .search-form,
   .slider-area2 form.search-box .search-form {
@@ -4303,7 +4303,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 336, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_h1-hero.scss */
   .slider-area form.search-box .search-form,
   .slider-area2 form.search-box .search-form {
@@ -4440,7 +4440,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area {
     display: block;
@@ -4448,7 +4448,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area {
     display: block;
@@ -4456,7 +4456,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area {
     display: block;
@@ -4487,7 +4487,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 14, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-img {
     width: 100%;
@@ -4496,7 +4496,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 14, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-img {
     width: 100%;
@@ -4505,7 +4505,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 14, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-img {
     width: 100%;
@@ -4525,7 +4525,7 @@ hr {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-
+  
   /* line 45, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-img .info-man {
     bottom: 153px;
@@ -4534,7 +4534,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 45, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-img .info-man {
     padding: 24px 31px;
@@ -4544,7 +4544,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 45, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-img .info-man {
     padding: 23px 36px;
@@ -4554,7 +4554,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 45, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-img .info-man {
     padding: 21px 19px;
@@ -4570,7 +4570,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 73, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-img .info-man .head-cap {
     margin-bottom: 9px;
@@ -4609,7 +4609,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 96, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details {
     padding: 20px 20px 20px 50px;
@@ -4617,7 +4617,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 96, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details {
     height: 523px;
@@ -4627,7 +4627,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 96, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details {
     width: 100%;
@@ -4638,7 +4638,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 96, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details {
     height: 602px;
@@ -4654,7 +4654,7 @@ hr {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1440px) {
-
+  
   /* line 129, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details .right-caption {
     width: 100%;
@@ -4662,7 +4662,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 129, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details .right-caption {
     width: 100%;
@@ -4670,7 +4670,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 129, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details .right-caption {
     width: 100%;
@@ -4678,7 +4678,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 129, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details .right-caption {
     width: 100%;
@@ -4694,7 +4694,7 @@ hr {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-
+  
   /* line 150, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details .right-caption .about-more p.pera-top br {
     display: none;
@@ -4702,7 +4702,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 155, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details .right-caption .about-more p.pera-top br {
     display: none;
@@ -4710,7 +4710,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 160, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details .right-caption .about-more p.pera-top br {
     display: none;
@@ -4718,7 +4718,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 165, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details .right-caption .about-more p.pera-top br {
     display: none;
@@ -4726,7 +4726,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 170, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_about.scss */
   .about-area .about-details .right-caption .about-more p.pera-top br {
     display: none;
@@ -4770,7 +4770,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 2, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_job-post.scss */
   .job-post .single-features {
     flex-wrap: wrap;
@@ -4778,7 +4778,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 2, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_job-post.scss */
   .job-post .single-features {
     flex-wrap: wrap;
@@ -4796,7 +4796,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 22, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_job-post.scss */
   .job-post .single-features .features-caption {
     padding: 0 32px;
@@ -4830,7 +4830,7 @@ hr {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-
+  
   /* line 3, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 {
     padding-top: 25px;
@@ -4839,7 +4839,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 3, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 {
     height: 523px;
@@ -4849,7 +4849,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 3, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 {
     padding-top: 20px;
@@ -4858,7 +4858,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 3, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 {
     padding-top: 20px;
@@ -4867,7 +4867,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 3, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 {
     padding-top: 20px;
@@ -4881,7 +4881,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 32, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 .about-caption .quotes-sign {
     margin-bottom: 34px;
@@ -4899,7 +4899,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 41, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 .about-img2 {
     width: 57%;
@@ -4907,7 +4907,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 41, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 .about-img2 {
     display: none;
@@ -4915,7 +4915,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 41, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 .about-img2 {
     display: none;
@@ -4923,7 +4923,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 41, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 .about-img2 {
     display: none;
@@ -4936,7 +4936,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 63, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 .about-img2 img {
     width: 80%;
@@ -4944,7 +4944,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 63, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .about-area2 .about-img2 img {
     width: 80%;
@@ -4967,7 +4967,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 81, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .testimonial-area .testimonial-caption p {
     margin-bottom: 15px;
@@ -4975,7 +4975,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 81, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .testimonial-area .testimonial-caption p {
     width: 99%;
@@ -5014,7 +5014,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 120, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .testimonial-area .founder-text p {
     font-size: 12px;
@@ -5058,7 +5058,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 157, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .h1-testimonial-active.dot-style .slick-dots {
     bottom: -22%;
@@ -5067,7 +5067,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 157, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .h1-testimonial-active.dot-style .slick-dots {
     bottom: -12%;
@@ -5076,7 +5076,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 157, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_testimonial.scss */
   .h1-testimonial-active.dot-style .slick-dots {
     bottom: -11%;
@@ -5106,7 +5106,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 4, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .our-services {
     padding-top: 0px;
@@ -5115,7 +5115,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 4, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .our-services {
     padding-top: 0px;
@@ -5124,7 +5124,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 4, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .our-services {
     padding-top: 70px;
@@ -5133,7 +5133,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 4, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .our-services {
     padding-top: 100px;
@@ -5168,7 +5168,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 36, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .our-services .single-services {
     border: 1px solid #EFEFEF;
@@ -5176,7 +5176,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 36, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .our-services .single-services {
     padding: 47px 19px;
@@ -5184,7 +5184,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 36, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .our-services .single-services {
     padding: 47px 19px;
@@ -5192,7 +5192,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 36, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .our-services .single-services {
     padding: 56px 32px;
@@ -5200,7 +5200,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 36, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .our-services .single-services {
     padding: 46px 23px;
@@ -5237,7 +5237,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 79, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .our-services .single-services .services-cap h5 a {
     font-size: 20px;
@@ -5272,7 +5272,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 120, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .top-jobs {
     padding-top: 0px;
@@ -5281,7 +5281,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 120, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .top-jobs {
     padding-top: 0px;
@@ -5290,7 +5290,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 120, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .top-jobs {
     padding-top: 70px;
@@ -5299,7 +5299,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 120, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .top-jobs {
     padding-top: 100px;
@@ -5325,7 +5325,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 139, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .top-jobs .single-top-jobs {
     padding: 47px 19px;
@@ -5333,7 +5333,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 139, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .top-jobs .single-top-jobs {
     padding: 47px 19px;
@@ -5341,7 +5341,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 139, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .top-jobs .single-top-jobs {
     padding: 56px 32px;
@@ -5349,7 +5349,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 139, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .top-jobs .single-top-jobs {
     padding: 46px 23px;
@@ -5391,7 +5391,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 182, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_services_section.scss */
   .top-jobs .single-top-jobs .services-cap h5 a {
     font-size: 20px;
@@ -5461,7 +5461,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 8, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_wantTowork.scss */
   .wantToWork-area .wantToWork-caption h2 {
     font-size: 30px;
@@ -5469,7 +5469,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 8, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_wantTowork.scss */
   .wantToWork-area .wantToWork-caption h2 {
     font-size: 32px;
@@ -5478,7 +5478,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 8, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_wantTowork.scss */
   .wantToWork-area .wantToWork-caption h2 {
     font-size: 25px;
@@ -5492,7 +5492,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 29, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_wantTowork.scss */
   .wantToWork-area .wantToWork-btn {
     float: left;
@@ -5501,7 +5501,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 29, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_wantTowork.scss */
   .wantToWork-area .wantToWork-btn {
     float: left;
@@ -5510,7 +5510,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 29, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_wantTowork.scss */
   .wantToWork-area .wantToWork-btn {
     float: left;
@@ -5519,7 +5519,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 45, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_wantTowork.scss */
   .sm-left {
     float: left;
@@ -5528,7 +5528,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 45, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_wantTowork.scss */
   .sm-left {
     float: left;
@@ -5537,7 +5537,7 @@ hr {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_footer.scss */
   .footer-wrappper {
     padding: 0;
@@ -5545,7 +5545,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_footer.scss */
   .footer-wrappper {
     padding: 0;
@@ -5553,7 +5553,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_footer.scss */
   .footer-wrappper {
     padding: 0;
@@ -5561,7 +5561,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_footer.scss */
   .footer-wrappper   {
     padding: 0;
@@ -5569,7 +5569,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_footer.scss */
   .footer-wrappper {
     padding: 0;
@@ -5586,7 +5586,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 20, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_footer.scss */
   .footer-area .footer-pera p {
     padding-right: 0px;
@@ -5777,7 +5777,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 43, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_pagination.scss */
   .pagination-area .page-link {
     margin: 0 4px;
@@ -5902,7 +5902,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 61, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_details.scss */
   .form-wrapper textarea {
     padding: 30px 42px;
@@ -5910,7 +5910,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 61, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_details.scss */
   .form-wrapper textarea {
     padding: 30px 42px;
@@ -5918,7 +5918,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 61, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_details.scss */
   .form-wrapper textarea {
     padding: 30px 42px;
@@ -5955,7 +5955,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 117, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_details.scss */
   .double-btn {
     float: left;
@@ -5963,7 +5963,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 117, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_details.scss */
   .double-btn {
     float: left;
@@ -5971,7 +5971,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 117, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_details.scss */
   .double-btn {
     float: left;
@@ -5979,7 +5979,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_job_details.scss */
   .job-post-company {
     padding-top: 70px;
@@ -5988,7 +5988,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_job_details.scss */
   .job-post-company {
     padding-top: 70px;
@@ -5997,7 +5997,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_job_details.scss */
   .job-post-company {
     padding-top: 70px;
@@ -6066,7 +6066,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 71, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_job_details.scss */
   .company-img-details {
     margin-bottom: 20px;
@@ -6100,7 +6100,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 9, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_login.scss */
   .login-form {
     width: 282px;
@@ -6221,7 +6221,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .category-area {
     padding-top: 70px;
@@ -6230,7 +6230,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 1, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .category-area {
     padding-top: 70px;
@@ -6245,7 +6245,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 13, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .category-area .count span {
     margin-bottom: 30px;
@@ -6288,7 +6288,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 41, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .category-listing .single-listing .select-job-items1 .nice-select,
   .category-listing .single-listing .select-job-items2 .nice-select {
@@ -6297,7 +6297,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 41, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .category-listing .single-listing .select-job-items1 .nice-select,
   .category-listing .single-listing .select-job-items2 .nice-select {
@@ -6347,7 +6347,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 78, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .category-listing .single-listing .select-Categories .container {
     font-size: 14px;
@@ -6470,7 +6470,7 @@ hr {
 }
 
 @media (max-width: 991px) {
-
+  
   /* line 195, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .product_bar_item {
     width: 100% !important;
@@ -6478,23 +6478,23 @@ hr {
 }
 
 @media (max-width: 991px) {
-
+  
   /* line 201, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .product_top_bar {
     margin-top: 70px;
   }
-
+  
   /* line 203, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .product_top_bar h2 {
     font-size: 25px;
   }
-
+  
   /* line 207, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .product_bar_single {
     margin-left: 0;
     margin-right: 5px;
   }
-
+  
   /* line 211, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_category-page.scss */
   .product_bar_single .nice-select {
     padding-left: 15px;
@@ -6546,7 +6546,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 17, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-img .blog-date {
     padding: 8px 20px;
@@ -6554,7 +6554,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 17, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-img .blog-date {
     padding: 8px 20px;
@@ -6562,7 +6562,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 17, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-img .blog-date {
     padding: 8px 20px;
@@ -6579,7 +6579,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 35, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-img .blog-date span {
     font-size: 22px;
@@ -6587,7 +6587,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 35, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-img .blog-date span {
     font-size: 22px;
@@ -6595,7 +6595,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 35, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-img .blog-date span {
     font-size: 22px;
@@ -6621,7 +6621,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  
   /* line 57, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-cap {
     padding: 37px 23px 37px 45px;
@@ -6629,7 +6629,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 57, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-cap {
     padding: 19px 8px 17px 18px;
@@ -6637,7 +6637,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 57, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-cap {
     padding: 19px 8px 17px 18px;
@@ -6645,7 +6645,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 57, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-cap {
     padding: 19px 8px 17px 18px;
@@ -6674,7 +6674,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 81, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a {
     font-size: 19px;
@@ -6682,7 +6682,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
+  
   /* line 81, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a {
     font-size: 19px;
@@ -6690,7 +6690,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-
+  
   /* line 81, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a {
     font-size: 19px;
@@ -6831,12 +6831,12 @@ hr {
 }
 
 @media (max-width: 1199px) {
-
+  
   /* line 210, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-blog .tag {
     margin-right: 8px;
   }
-
+  
   /* line 234, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-blog .tag:after {
     display: none;
@@ -6849,7 +6849,7 @@ hr {
 }
 
 @media (max-width: 800px) {
-
+  
   /* line 160, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-blog {
     margin-bottom: 30px;
@@ -6875,7 +6875,7 @@ hr {
 }
 
 @media (max-width: 1199px) {
-
+  
   /* line 248, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-blog .single-blog-content {
     padding: 15px;
@@ -6892,7 +6892,7 @@ hr {
 }
 
 @media (max-width: 1199px) {
-
+  
   /* line 279, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-blog h4 {
     transition: all 300ms linear 0s;
@@ -6900,7 +6900,7 @@ hr {
     padding-bottom: 14px;
     margin-bottom: 12px;
   }
-
+  
   /* line 285, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-blog h4 a {
     font-size: 18px;
@@ -6926,7 +6926,7 @@ hr {
 }
 
 @media (min-width: 992px) {
-
+  
   /* line 296, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .full_image.single-blog .single-blog-content {
     bottom: 100px;
@@ -7171,7 +7171,7 @@ hr {
 }
 
 @media (min-width: 900px) {
-
+  
   /* line 574, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .blog_categorie_area {
     padding-top: 80px;
@@ -7180,7 +7180,7 @@ hr {
 }
 
 @media (min-width: 1100px) {
-
+  
   /* line 574, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .blog_categorie_area {
     padding-top: 120px;
@@ -7259,7 +7259,7 @@ hr {
 }
 
 @media (min-width: 768px) {
-
+  
   /* line 665, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .blog_details {
     padding: 60px 30px 35px 35px;
@@ -7289,7 +7289,7 @@ hr {
 }
 
 @media (min-width: 768px) {
-
+  
   /* line 685, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .blog_details h2 {
     font-size: 24px;
@@ -7353,7 +7353,7 @@ hr {
 }
 
 @media (min-width: 768px) {
-
+  
   /* line 735, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .blog_item_img .blog_item_date {
     bottom: -20px;
@@ -7372,7 +7372,7 @@ hr {
 }
 
 @media (min-width: 768px) {
-
+  
   /* line 751, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .blog_item_img .blog_item_date h3 {
     font-size: 30px;
@@ -7387,7 +7387,7 @@ hr {
 }
 
 @media (min-width: 768px) {
-
+  
   /* line 763, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .blog_item_img .blog_item_date p {
     font-size: 18px;
@@ -7704,7 +7704,7 @@ hr {
 }
 
 @media (min-width: 768px) {
-
+  
   /* line 1226, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-post-area .quote-wrapper {
     padding: 30px;
@@ -7719,7 +7719,7 @@ hr {
 }
 
 @media (min-width: 768px) {
-
+  
   /* line 1240, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-post-area .quotes {
     padding: 25px 25px 25px 30px;
@@ -7803,7 +7803,7 @@ hr {
 }
 
 @media (max-width: 600px) {
-
+  
   /* line 1321, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-post-area .blog-author {
     padding: 20px 8px;
@@ -7819,7 +7819,7 @@ hr {
 }
 
 @media (max-width: 600px) {
-
+  
   /* line 1330, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-post-area .blog-author img {
     margin-right: 15px;
@@ -7907,7 +7907,7 @@ hr {
 }
 
 @media (max-width: 767px) {
-
+  
   /* line 1379, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-post-area .navigation-area .nav-left {
     margin-bottom: 30px;
@@ -7954,7 +7954,7 @@ hr {
 }
 
 @media (max-width: 991px) {
-
+  
   /* line 1446, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .single-post-area .sidebar-widgets {
     padding-bottom: 0px;
@@ -7970,7 +7970,7 @@ hr {
 }
 
 @media (max-width: 414px) {
-
+  
   /* line 1453, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .comments-area {
     padding: 50px 8px;
@@ -8005,17 +8005,17 @@ hr {
 }
 
 @media (max-width: 413px) {
-
+  
   /* line 1493, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .comments-area .comment-list .single-comment h5 {
     font-size: 12px;
   }
-
+  
   /* line 1497, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .comments-area .comment-list .single-comment .date {
     font-size: 11px;
   }
-
+  
   /* line 1501, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .comments-area .comment-list .single-comment .comment {
     font-size: 10px;
@@ -8084,7 +8084,7 @@ hr {
 }
 
 @media (max-width: 767px) {
-
+  
   /* line 1567, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .comment-form .name {
     padding-right: 0px;
@@ -8098,7 +8098,7 @@ hr {
 }
 
 @media (max-width: 991px) {
-
+  
   /* line 1576, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_blog_page.scss */
   .comment-form .email {
     padding-left: 0px;
@@ -8312,7 +8312,7 @@ hr {
 }
 
 @media (max-width: 991px) {
-
+  
   /* line 133, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_contact.scss */
   .contact-section {
     padding: 70px 0 40px;
@@ -8320,7 +8320,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-
+  
   /* line 133, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_contact.scss */
   .contact-section {
     padding: 80px 0 50px;
@@ -8365,7 +8365,7 @@ hr {
 }
 
 @media (max-width: 767px) {
-
+  
   /* line 10, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_bradcam.scss */
   .bradcam_area {
     padding: 150px 0;
@@ -8373,7 +8373,7 @@ hr {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 10, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_bradcam.scss */
   .bradcam_area {
     padding: 150px 0;
@@ -8391,7 +8391,7 @@ hr {
 }
 
 @media (max-width: 767px) {
-
+  
   /* line 22, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_bradcam.scss */
   .bradcam_area h3 {
     font-size: 30px;
@@ -8399,7 +8399,7 @@ hr {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-
+  
   /* line 22, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_bradcam.scss */
   .bradcam_area h3 {
     font-size: 40px;
@@ -8416,7 +8416,7 @@ hr {
 }
 
 @media (max-width: 767px) {
-
+  
   /* line 38, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_bradcam.scss */
   .popup_box {
     width: 320px;
@@ -8425,7 +8425,7 @@ hr {
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-
+  
   /* line 38, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_bradcam.scss */
   .popup_box {
     width: 420px !important;
@@ -8533,7 +8533,7 @@ hr {
 }
 
 @media (max-width: 767px) {
-
+  
   /* line 131, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_bradcam.scss */
   #test-form {
     top: 0;
@@ -8559,7 +8559,7 @@ hr {
 }
 
 @media (max-width: 767px) {
-
+  
   /* line 151, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_bradcam.scss */
   #test-form button.mfp-close {
     display: block !important;
@@ -8611,7 +8611,7 @@ hr {
 }
 
 @media (max-width: 767px) {
-
+  
   /* line 208, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_bradcam.scss */
   .gj-picker.gj-picker-md.timepicker {
     width: 310px;
@@ -8620,7 +8620,7 @@ hr {
 }
 
 @media (max-width: 767px) {
-
+  
   /* line 215, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_bradcam.scss */
   .gj-picker.gj-picker-md.datepicker.gj-unselectable {
     width: 320px;
@@ -9912,7 +9912,7 @@ del {
 /*# sourceMappingURL=style.css.map */
 
 /*----------------ksr added----------------------*/
- 
+
 /* #job_illustration {
   height: 500px;
   margin-top: -100px;
@@ -9936,7 +9936,7 @@ del {
     border: 2px solid black;
     margin-top: 100px;
   } */
-
+  
 }
 
 @media (max-width: 995px) {
@@ -9946,7 +9946,7 @@ del {
     margin-top: 10px;
     height: 80px;
   } */
-
+  
 }
 
 
@@ -9955,183 +9955,183 @@ del {
 
 
 /**
- * Variables
- */
+* Variables
+*/
 /**
- * Base styles
- */
- body,
- html {
-   font-family: 'Roboto', sans-serif;
-   text-align: center;
- }
- 
- h1, h2, h3, h4, h5, h6 {
-   font-weight: normal;
- }
- 
- h1 {
-   font-size: 1.875rem;
-   font-weight: 300;
-   margin: 60px 0 30px 0;
-   color: #fff;
- }
- 
- button {
-   background-color: #0D52E9;
-   position: relative;
-   color: #fff;
-   border: none;
-   padding: 1.25em 2em;
-   font-size: 0.75em;
-   letter-spacing: 1px;
-   text-transform: uppercase;
-   cursor: pointer;
-   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-   -webkit-transition: background 0.25s cubic-bezier(0.55, 0, 0.1, 1);
-   transition: background 0.25s cubic-bezier(0.55, 0, 0.1, 1);
- }
- button:hover {
-   background: #0c4ddb;
- }
- button:focus {
-   outline: none;
- }
- 
- /**
-  * Overlay
-  * -- only show for tablet and up
-  */
- @media only screen and (min-width: 40em) {
-   .modal-overlay {
-     display: -webkit-box;
-     display: flex;
-     -webkit-box-align: center;
-             align-items: center;
-     -webkit-box-pack: center;
-             justify-content: center;
-     position: fixed;
-     top: 0;
-     left: 0;
-     width: 100%;
-     height: 100%;
-     z-index: 5;
-     background-color: rgba(0, 0, 0, 0.6);
-     opacity: 0;
-     visibility: hidden;
-     -webkit-backface-visibility: hidden;
-             backface-visibility: hidden;
-     -webkit-transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), visibility 0.6s cubic-bezier(0.55, 0, 0.1, 1);
-     transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), visibility 0.6s cubic-bezier(0.55, 0, 0.1, 1);
-   }
-   .modal-overlay.active {
-     opacity: 1;
-     visibility: visible;
-   }
- }
- /**
-  * Modal
-  */
- .modal {
-   display: -webkit-box;
-   display: flex;
-   -webkit-box-align: center;
-           align-items: center;
-   -webkit-box-pack: center;
-           justify-content: center;
-   position: relative;
-   margin: 0 auto;
-   background-color: #fff;
-   width: 600px;
-   max-width: 75rem;
-   min-height: 20rem;
-   padding: 1rem;
-   border-radius: 3px;
-   opacity: 0;
-   overflow-y: auto;
-   visibility: hidden;
-   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-   -webkit-backface-visibility: hidden;
-           backface-visibility: hidden;
-   -webkit-transform: scale(1.2);
-           transform: scale(1.2);
-   -webkit-transition: all 0.6s cubic-bezier(0.55, 0, 0.1, 1);
-   transition: all 0.6s cubic-bezier(0.55, 0, 0.1, 1);
- }
- .modal .close-modal {
-   position: absolute;
-   cursor: pointer;
-   top: 5px;
-   right: 15px;
-   opacity: 0;
-   -webkit-backface-visibility: hidden;
-           backface-visibility: hidden;
-   -webkit-transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), -webkit-transform 0.6s cubic-bezier(0.55, 0, 0.1, 1);
-   transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), -webkit-transform 0.6s cubic-bezier(0.55, 0, 0.1, 1);
-   transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), transform 0.6s cubic-bezier(0.55, 0, 0.1, 1);
-   transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), transform 0.6s cubic-bezier(0.55, 0, 0.1, 1), -webkit-transform 0.6s cubic-bezier(0.55, 0, 0.1, 1);
-   -webkit-transition-delay: 0.3s;
-           transition-delay: 0.3s;
- }
- .modal .close-modal svg {
-   width: 1.75em;
-   height: 1.75em;
- }
- .modal .modal-content {
-   opacity: 0;
-   -webkit-backface-visibility: hidden;
-           backface-visibility: hidden;
-   -webkit-transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1);
-   transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1);
-   -webkit-transition-delay: 0.3s;
-           transition-delay: 0.3s;
-    overflow-y: scroll;
- }
- .modal.active {
-   visibility: visible;
-   opacity: 1;
-   -webkit-transform: scale(1);
-           transform: scale(1);
- }
- .modal.active .modal-content {
-   opacity: 1;
- }
- .modal.active .close-modal {
-   -webkit-transform: translateY(10px);
-           transform: translateY(10px);
-   opacity: 1;
- }
- 
- /**
-  * Mobile styling
-  */
- @media only screen and (max-width: 39.9375em) {
-   h1 {
-     font-size: 1.5rem;
-   }
- 
-   .modal {
-     position: fixed;
-     top: 0;
-     left: 0;
-     width: 100%;
-     height: 100%;
-     -webkit-overflow-scrolling: touch;
-     border-radius: 0;
-     -webkit-transform: scale(1.1);
-             transform: scale(1.1);
-     padding: 0 !important;
-   }
- 
-   .close-modal {
-     right: 20px !important;
-   }
- }
- 
+* Base styles
+*/
+body,
+html {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
 
- /* floating animation  */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
 
- .floating {  
+h1 {
+  font-size: 1.875rem;
+  font-weight: 300;
+  margin: 60px 0 30px 0;
+  color: #fff;
+}
+
+button {
+  background-color: #0D52E9;
+  position: relative;
+  color: #fff;
+  border: none;
+  padding: 1.25em 2em;
+  font-size: 0.75em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  -webkit-transition: background 0.25s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: background 0.25s cubic-bezier(0.55, 0, 0.1, 1);
+}
+button:hover {
+  background: #0c4ddb;
+}
+button:focus {
+  outline: none;
+}
+
+/**
+* Overlay
+* -- only show for tablet and up
+*/
+@media only screen and (min-width: 40em) {
+  .modal-overlay {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+    background-color: rgba(0, 0, 0, 0.6);
+    opacity: 0;
+    visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), visibility 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+    transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), visibility 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+  }
+  .modal-overlay.active {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+/**
+* Modal
+*/
+.modal {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  position: relative;
+  margin: 0 auto;
+  background-color: #fff;
+  width: 600px;
+  max-width: 75rem;
+  min-height: 20rem;
+  padding: 1rem;
+  border-radius: 3px;
+  opacity: 0;
+  overflow-y: auto;
+  visibility: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  -webkit-transition: all 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: all 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+}
+.modal .close-modal {
+  position: absolute;
+  cursor: pointer;
+  top: 5px;
+  right: 15px;
+  opacity: 0;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), -webkit-transform 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), -webkit-transform 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), transform 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1), transform 0.6s cubic-bezier(0.55, 0, 0.1, 1), -webkit-transform 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+  -webkit-transition-delay: 0.3s;
+  transition-delay: 0.3s;
+}
+.modal .close-modal svg {
+  width: 1.75em;
+  height: 1.75em;
+}
+.modal .modal-content {
+  opacity: 0;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: opacity 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+  -webkit-transition-delay: 0.3s;
+  transition-delay: 0.3s;
+  overflow-y: scroll;
+}
+.modal.active {
+  visibility: visible;
+  opacity: 1;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+.modal.active .modal-content {
+  opacity: 1;
+}
+.modal.active .close-modal {
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  opacity: 1;
+}
+
+/**
+* Mobile styling
+*/
+@media only screen and (max-width: 39.9375em) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+  .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-overflow-scrolling: touch;
+    border-radius: 0;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    padding: 0 !important;
+  }
+  
+  .close-modal {
+    right: 20px !important;
+  }
+}
+
+
+/* floating animation  */
+
+.floating {  
   animation-name: floating;
   animation-duration: 2s;
   animation-iteration-count: infinite;
@@ -10188,11 +10188,11 @@ del {
 
 
 .description-text{
-    background: #eeeeee;
-    border-radius: 0 20px 0 20px  ;
-    opacity: 0;
-    height: 0px;
-    transition: ease-in-out 300ms;
+  background: #eeeeee;
+  border-radius: 0 20px 0 20px  ;
+  opacity: 0;
+  height: 0px;
+  transition: ease-in-out 300ms;
 }
 
 
@@ -10211,11 +10211,11 @@ del {
   .connect_btns{
     flex-direction: column;
   }
-
+  
   .form-check{
     flex-direction: column;
   }
-
+  
   .modal-content{
     height: 500px !important;
     background: #eeeeee;
@@ -10241,10 +10241,10 @@ del {
 
 @-webkit-keyframes rotation {
   from {
-      -webkit-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
   }
   to {
-      -webkit-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
   }
 }
 
@@ -10277,14 +10277,17 @@ del {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-
+  
 }
 
 .trainer-card{
-  background: #e2dfdf;
+  background: #f1f1f1;
   padding: 30px 20px;  
   margin: 30px;
   border-radius: 8px;
+  -webkit-box-shadow: 6px 10px 28px -8px rgba(0,0,0,0.75);
+  -moz-box-shadow: 6px 10px 28px -8px rgba(0,0,0,0.75);
+  box-shadow: 6px 10px 28px -8px rgba(0,0,0,0.75);
 }
 
 .trainer-img{
