@@ -10264,3 +10264,7 @@ del {
 .single-post{
   text-align: left;
 }
+
+.footer-pera p{
+  padding-right: 0 !important;
+}
