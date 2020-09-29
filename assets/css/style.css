@@ -10301,3 +10301,9 @@ button:focus {
 .trainer-desc{
   padding: 20px 10px 0;
 }
+
+.job-card{
+  padding: 20px;
+  font-size: 2em !important;
+  margin: 20px;
+}
