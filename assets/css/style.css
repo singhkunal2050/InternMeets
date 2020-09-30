@@ -10312,13 +10312,18 @@ button:focus {
 
 .slicknav_nav{
   text-align:left ;
-  background: linear-gradient(250deg , lightblue , white);
+  background: linear-gradient(250deg , lightblue , #b1d5ff);
 }
 
 .slicknav_nav li{
   background: #e5f9ff;
   border-radius: 16px
 }
+
+.slicknav_nav li:hover , .slicknav_nav li:focus{
+  background: #d7f4fd;
+}
+
 
 ul .submenu li{
   background: #bfedfd;
