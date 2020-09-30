@@ -10307,3 +10307,17 @@ button:focus {
   font-size: 2em !important;
   margin: 20px;
 }
+
+/* slick nav for mob  */
+
+.slicknav_nav{
+  text-align:left ;
+}
+
+.slicknav_nav li{
+  background: #d5eff8;
+}
+
+ul .submenu li{
+  background: #bfedfd;
+}
