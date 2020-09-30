@@ -10324,7 +10324,9 @@ button:focus {
   background: #d7f4fd;
 }
 
+@media(max-width:700px){
 
-ul .submenu li{
-  background: #bfedfd;
+  ul .submenu li{
+    background: #bfedfd;
+  }
 }
