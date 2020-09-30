@@ -126,8 +126,8 @@
                                 <!-- CHANGING DEFAULT LANDING PAGE AFTER SUBMISSION -->
                                 <script type="text/javascript">var submitted = false;</script>
                                 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-                                onload="if(submitted) {window.alert('thank-you for contacting us');}"></iframe>
-                                <form class="form-contact contact_form" action="https://docs.google.com/forms/u/7/d/e/1FAIpQLSddCREicGs7pS7OdF98p1ZjqPaKCeX_dN-qC1uwINK1sZbSiw/formResponse" method="post" >
+                                   onload="if(submitted) {window.alert('Thank You for Contacting US!');}"></iframe>
+                                <form class="form-contact contact_form" action="https://docs.google.com/forms/u/7/d/e/1FAIpQLSddCREicGs7pS7OdF98p1ZjqPaKCeX_dN-qC1uwINK1sZbSiw/formResponse" method="post"  target="hidden_iframe"   onsubmit="submitted=true;" >
                                     <div class="row">
                                         <div class="col-12">
                                             <div class="form-group">
@@ -160,7 +160,7 @@
                                     </div>
                                     <div class="form-group mt-3">
                                         <!-- <button type="submit" class="button button-contactForm boxed-btn">Send</button> -->
-                                        <button type="submit">Submit</button>
+                                        <button type="submit"  name="Submit">Submit</button>
                                     </div>
                                 </form>
                             </div>
@@ -384,6 +384,8 @@
                     <!-- Jquery Plugins, main Jquery -->
                     <script src="./assets/js/plugins.js"></script>
                     <script src="./assets/js/main.js"></script>
+
+                    
                     
                 </body>
                 
