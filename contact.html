@@ -126,7 +126,9 @@
                                 <!-- CHANGING DEFAULT LANDING PAGE AFTER SUBMISSION -->
                                 <script type="text/javascript">var submitted = false;</script>
                                 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-                                   onload="if(submitted) {window.alert('Thank You for Contacting US!');}"></iframe>
+                                   onload="if(submitted) {
+                                       swal('Thank You!');
+                                   }"></iframe>
                                 <form class="form-contact contact_form" action="https://docs.google.com/forms/u/7/d/e/1FAIpQLSddCREicGs7pS7OdF98p1ZjqPaKCeX_dN-qC1uwINK1sZbSiw/formResponse" method="post"  target="hidden_iframe"   onsubmit="submitted=true;" >
                                     <div class="row">
                                         <div class="col-12">
@@ -385,8 +387,9 @@
                     <script src="./assets/js/plugins.js"></script>
                     <script src="./assets/js/main.js"></script>
 
-                    
-                    
+                    <!-- SWEET ALRT -->
+                    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
                 </body>
                 
                 </html>
