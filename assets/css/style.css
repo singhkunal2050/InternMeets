@@ -10298,6 +10298,18 @@ button:focus {
   height: 100%;
 }
 
+@media(max-width:600px){
+  
+  .trainer-card{
+    margin:0 ;
+  }
+  
+  .trainer-img{
+    margin: 0;
+    height: 150px !important;
+  }
+}
+
 .trainer-desc{
   padding: 20px 10px 0;
 }
